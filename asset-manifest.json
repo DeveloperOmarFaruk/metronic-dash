@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/metronic-dash/static/css/main.0dc29289.chunk.css",
-    "main.js": "/metronic-dash/static/js/main.c5cc47fb.chunk.js",
-    "main.js.map": "/metronic-dash/static/js/main.c5cc47fb.chunk.js.map",
+    "main.css": "/metronic-dash/static/css/main.15ab8829.chunk.css",
+    "main.js": "/metronic-dash/static/js/main.26185603.chunk.js",
+    "main.js.map": "/metronic-dash/static/js/main.26185603.chunk.js.map",
     "runtime-main.js": "/metronic-dash/static/js/runtime-main.59ab7ed4.js",
     "runtime-main.js.map": "/metronic-dash/static/js/runtime-main.59ab7ed4.js.map",
     "static/js/2.908d43a6.chunk.js": "/metronic-dash/static/js/2.908d43a6.chunk.js",
     "static/js/2.908d43a6.chunk.js.map": "/metronic-dash/static/js/2.908d43a6.chunk.js.map",
     "index.html": "/metronic-dash/index.html",
-    "static/css/main.0dc29289.chunk.css.map": "/metronic-dash/static/css/main.0dc29289.chunk.css.map",
+    "static/css/main.15ab8829.chunk.css.map": "/metronic-dash/static/css/main.15ab8829.chunk.css.map",
     "static/js/2.908d43a6.chunk.js.LICENSE.txt": "/metronic-dash/static/js/2.908d43a6.chunk.js.LICENSE.txt",
     "static/media/boxicons.min.css": "/metronic-dash/static/media/boxicons.cbd149c5.ttf",
     "static/media/logo.cc18e651.png": "/metronic-dash/static/media/logo.cc18e651.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.59ab7ed4.js",
     "static/js/2.908d43a6.chunk.js",
-    "static/css/main.0dc29289.chunk.css",
-    "static/js/main.c5cc47fb.chunk.js"
+    "static/css/main.15ab8829.chunk.css",
+    "static/js/main.26185603.chunk.js"
   ]
 }
